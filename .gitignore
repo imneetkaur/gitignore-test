@@ -14,6 +14,7 @@ favicon.ico
 #Ignore default png images
 icon.png
 tile-wide.png
+tile.png
 
 #Ignore Default html files
 404.html
